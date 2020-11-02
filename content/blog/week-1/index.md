@@ -77,7 +77,7 @@ const person = {
     age: "29",
     city: "Nottingham",
     favouriteMovies: ["Star Wars","Toy Story","Coco","Tangled"],
-    function greeting(){
+    function: greeting(){
         return `Hi, my name is ${this.name}.`;
     }
 }
