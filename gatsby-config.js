@@ -5,8 +5,8 @@ module.exports = {
       name: `Sam Wilson`,
       summary: `who lives and works in Nottingham building not so useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A starter blog following my journey into software engineering & web development.`,
+    siteUrl: `https://samwilson.netlify.app/`,
     social: {
       twitter: `SWils1990`,
     },
